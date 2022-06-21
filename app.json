@@ -1,8 +1,28 @@
 {
-    "name": "FastlyWrite UserBot",
-    "description": "A Telegram Which helps u to score more in fastlywritebot",
-    "repository": "https://github.com/raveen2k3/FastlyWriteUB",
-    "logo": "https://p.favim.com/orig/2019/03/04/fujiwara-chika-anime-kaguya-sama-love-is-war-Favim.com-6976575.jpg",
-    "keywords": ["telegram", "python", "bot"]
-    
+  "name": "Joker X Bot",
+  "description": "Telegram bot to download instagram content",
+  "logo": "https://telegra.ph/file/4e8e8063cfb0de22b0161.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "repository": "https://github.com/Sathishzus/FastlyWrite",
+  "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    }
   }
+}
