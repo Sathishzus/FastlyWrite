@@ -17,5 +17,27 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/Sathishzus/FastlyWrite"
+  "repository": "https://github.com/Sathishzus/FastlyWrite",
+  "env": {
+    "API_ID": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_HASH": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "SESSION_NAME": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "CHATS": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    }
+  }
 }
