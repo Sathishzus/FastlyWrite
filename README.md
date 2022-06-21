@@ -11,7 +11,7 @@ upi - raveen2k3@axl
 
 CONTACT DEV : <a href="https://t.me/raveen2k3">Raveen2k3</a>
 
-DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raveen2k3/FastlyWriteUB)
+DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sathishzus/FastlyWrite)
 
 
 <h1 align="center">VARS TO BE ADDED IN HEROKU</h1>
